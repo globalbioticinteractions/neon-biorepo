@@ -4,4 +4,4 @@
 
 https://biorepo.neonscience.org
 
-This repository contains configuration to help Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) find and index biotic association records at NEON Biorepository Portal at ASU.
+This repository contains configuration to help Global Biotic Interactions (GloBI, http://globalbioticinteractions.org) find and index biotic association records at NEON Biorepository Portal at ASU .
