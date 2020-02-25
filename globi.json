@@ -1,0 +1,8 @@
+{ 
+  "format": "rss",
+  "citation": "NEON Biorepository Portal at Arizona State University (ASU)",
+  "resources": {
+    "rss": "https://biorepo.neonscience.org:443/portal/webservices/dwc/rss.xml"
+  },
+  "shouldResolveReferences": false
+}
