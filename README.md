@@ -1,4 +1,4 @@
-[![GloBI review by Elton](https://github.com/globalbioticinteractions/template-dataset/actions/workflows/review.yml/badge.svg)](https://github.com/globalbioticinteractions/template-dataset/actions) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/neon-biorepo)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/neon-biorepo) 
+[![GloBI review by Elton](https://github.com/globalbioticinteractions/neo-biorepo/actions/workflows/review.yml/badge.svg)](https://github.com/globalbioticinteractions/neo-biorepo/actions) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/neon-biorepo)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/neon-biorepo) 
 
 ## NEON Biorepository Portal at Arizona State University (ASU) 
 
