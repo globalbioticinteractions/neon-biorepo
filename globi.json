@@ -2,5 +2,6 @@
   "format": "rss",
   "citation": "NEON Biorepository Portal at Arizona State University (ASU)",
   "url": "https://biorepo.neonscience.org/portal/collections/datasets/rsshandler.php",
+  "hasDependencies": true,
   "shouldResolveReferences": false
 }
